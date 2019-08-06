@@ -1,18 +1,18 @@
-Algoritmo "Soma"
-// Disciplina  : Programação e algoriimos
+Algoritmo "Soma!"
+// Disciplina  : Programaï¿½ï¿½o e algoriimos
 // Professor   : Ederaldo
-// Descrição   : Este programa faz a soma de 2 valores informados pelo usuário
+// Descriï¿½ï¿½o   : Este programa faz a soma de 2 valores informados pelo usuï¿½rio
 // Autor(a)    : Diogo Antonio da silva
 // Data atual  : 30/07/2019
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    n1:inteiro    //  Guarda o valor do primeiro numero
    n2:inteiro    //  Guarda o valor do segundo numero
    soma:inteiro  //  Resultado da soma
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
    Escreval ("Calculo de soma")
    Escreva ("Informe o primeiro valor:")
    Leia (n1)
@@ -21,7 +21,7 @@ Inicio
    
    soma<-n1+n2
    
-   Escreva ("O resultado da soma é: ")
+   Escreva ("O resultado da soma ï¿½: ")
    Escreva (soma)
    
 

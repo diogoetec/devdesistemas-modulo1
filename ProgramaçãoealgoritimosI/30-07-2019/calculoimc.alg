@@ -1,18 +1,18 @@
-Algoritmo "Calculo IMC"
-// Disciplina  :  [Linguagem e Lógica de Programação] 
+Algoritmo "Calculo IMC!"
+// Disciplina  :  [Linguagem e Lï¿½gica de Programaï¿½ï¿½o] 
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descriï¿½ï¿½o   : Aqui vocï¿½ descreve o que o programa faz! (funï¿½ï¿½o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 30/07/2019
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    peso:real
    altura:real
    imc:real
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
    Escreval ("Para calcular seu IMC precisamos do seu peso e altura")
    Escreval
    Escreval ("Digite seu peso:")
@@ -20,7 +20,7 @@ Inicio
    Escreval ("Digite sua altura:")
    Leia (altura)
    imc<-peso/altura^2
-   Escreval ("Seu imc é ",imc)
+   Escreval ("Seu imc ï¿½ ",imc)
 
 
 Fimalgoritmo

@@ -1,11 +1,11 @@
-Algoritmo "Calculo de perimetro e área"
-// Disciplina  : Programação e algoriimos
+Algoritmo "Calculo de perimetro e ï¿½rea!"
+// Disciplina  : Programaï¿½ï¿½o e algoriimos
 // Professor   : Ederaldo
-// Descrição   : Este programa faz a soma de 2 valores informados pelo usuário
+// Descriï¿½ï¿½o   : Este programa faz a soma de 2 valores informados pelo usuï¿½rio
 // Autor(a)    : Diogo Antonio da silva
 // Data atual  : 30/07/2019
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    altura:inteiro    //  Guarda o valor do primeiro numero
    base:inteiro    //  Guarda o valor do segundo numero
    perimetro:inteiro  //  Resultado da soma
@@ -13,8 +13,8 @@ Var
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-   Escreval ("Calculo de perimetro e área")
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
+   Escreval ("Calculo de perimetro e ï¿½rea")
    Escreval
    Escreva ("Informe o valor da altura:")
    Leia (altura)
@@ -27,7 +27,7 @@ Inicio
    area<-altura*base
    
    Escreval
-   Escreval ("O tamanho do perimetro é", perimetro," e o tamanho da área é", area, "m²" )
+   Escreval ("O tamanho do perimetro ï¿½", perimetro," e o tamanho da ï¿½rea ï¿½", area, "mï¿½" )
    
 
 Fimalgoritmo

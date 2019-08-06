@@ -1,11 +1,11 @@
-Algoritmo "semnome"
-// Disciplina  :  [Linguagem e Lógica de Programação] 
+Algoritmo "semnome!"
+// Disciplina  :  [Linguagem e Lï¿½gica de Programaï¿½ï¿½o] 
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descriï¿½ï¿½o   : Aqui vocï¿½ descreve o que o programa faz! (funï¿½ï¿½o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 30/07/2019
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    nota1:real
    nota2:real
    nota3:real
@@ -13,8 +13,8 @@ Var
    media:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
-   Escreval ("Insira as notas do aluno para calcular uma média")
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+   Escreval ("Insira as notas do aluno para calcular uma mï¿½dia")
    Escreval
    Escreval ("Insira a nota do primeiro bimestre")
    Leia (nota1)
@@ -26,7 +26,7 @@ Inicio
    Leia (nota4)
    media := (nota1 + nota2 + nota3 + nota4)/4
    Escreval
-   Escreval ("A média do aluno é:",media)
+   Escreval ("A mï¿½dia do aluno ï¿½:",media)
 
 
 Fimalgoritmo
